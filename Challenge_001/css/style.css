@@ -1,0 +1,48 @@
+.container {
+  background-color: white;
+  border-radius: 25px;
+  width: 254px;
+  height: 422px;
+
+  position: absolute;
+  top: 22%;
+  left: 40%;
+  margin: auto;
+
+
+
+}
+.sec_container{
+    background-color: hsl(212, 45%, 89%);
+    height: 800px
+}
+.p1 {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 19px;
+  width: 210px;
+  margin: 15px auto auto auto;
+}
+
+.p2 {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 14px;
+  width: 210px;
+  margin: 15px auto auto auto;
+}
+
+body {
+
+  text-align: center;
+    background-color: hsl(212, 45%, 89%);
+
+}
+
+img {
+  border-radius: 25px;
+  margin: 11px auto 0 auto;
+  width: 90%;
+}
